@@ -1,3 +1,8 @@
+Gabrielle Kelsey
+This repository includes 6 jupyter notebooks, most of which can be run independently (excluding 01_ETL_Processing.ipynb) after getting the data and installing the needed dependencies. A more detailed description on how to run this is located below.
+
+---
+
 # WESM Price Prediction
 
 An end-to-end machine learning project for predicting electricity spot market prices in the Philippines. The target variable is the **Generator Weighted Average Price (GWAP)** for the Luzon region at 5-minute Real-Time Dispatch (RTD) intervals, sourced from the Wholesale Electricity Spot Market (WESM) operated by IEMOP.
